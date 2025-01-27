@@ -25,7 +25,7 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
-_site/
+#_site/
 .jekyll-cache/
 .sass-cache/
 .bundle/
