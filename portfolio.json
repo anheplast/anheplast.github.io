@@ -1,0 +1,135 @@
+{
+  "name": "Mayanquer Zurita Martin Josue",
+  "label": "Entusiasta de Ciberseguridad e Ingeniería Inversa",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "martinmayanquer01@gmail.com",
+    "phone": "+593 995884270",
+    "location": "Ibarra, Ecuador"
+  },
+  "summary": "Autodidacta y apasionado por la ciberseguridad, la ingeniería inversa y el desarrollo a bajo nivel; aprendo rompiendo, analizando y creando.",
+  "base_url": "https://anheplast.github.io",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://anheplast.github.io",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/martin-mayanquer",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/martinmayanquer01",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Cooperativa de ahorro y crédito San Antonio Ltda",
+      "position": "Prácticas Pre-profesionales",
+      "url": "",
+      "start_date": "04/2024",
+      "end_date": "08/2024",
+      "summary": "Prácticas pre-profesionales en soporte técnico y seguridad de la información.",
+      "highlights": [
+        "Instalé y configuré un servidor RustDesk en Ubuntu Server usando Docker para conexiones remotas en red local.",
+        "Automatización de instalación de cliente y distribución de configuración de red.",
+        "Colaboré en la redacción y actualización de políticas de seguridad e IDS (Sophos).",
+        "Instalación y configuración de software crítico, cifrado de discos y gestión de impresoras bajo AD.",
+        "Mantenimiento y resolución de problemas en equipos y redes, incluyendo supervisión de fibra óptica."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Dev Challenge (1ra edición)",
+      "summary": "Prototipo con ESP32-S3 para captura de datos biométricos y aplicación web en Python/Flask con PostgreSQL para monitoreo de pacientes con ansiedad.",
+      "url": "",
+      "highlights": [
+        "Desarrollo de firmware en ESP32-S3 para lectura y envío de datos biométricos.",
+        "Implementación de API y CRUD en Flask conectado a PostgreSQL.",
+        "Objetivo de asistir a profesionales de salud en gestión de pacientes."
+      ],
+      "images": []
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Unidad Educativa \"Agustín Cueva\"",
+      "position": "Capacitador TIC",
+      "url": "",
+      "start_date": "11/2023",
+      "end_date": "01/2024",
+      "summary": "Capacitación en Tecnologías de la Información y creación de contenidos digitales.",
+      "highlights": [
+        "Formación de docentes y estudiantes para promover una educación inclusiva y de calidad."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontificia Universidad Católica del Ecuador Sede Ibarra",
+      "location": "Ibarra, Ecuador",
+      "url": "",
+      "degrees": [
+        "Técnico Superior en Desarrollo de Software (Último Semestre)"
+      ],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 80,
+      "proficiency_label": "Nivel de habilidad"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": 70,
+      "proficiency_label": "Nivel de habilidad"
+    },
+    {
+      "name": "Linux/Bash",
+      "proficiency": 75,
+      "proficiency_label": "Nivel de habilidad"
+    },
+    {
+      "name": "Git",
+      "proficiency": 80,
+      "proficiency_label": "Nivel de habilidad"
+    },
+    {
+      "name": "Docker",
+      "proficiency": 60,
+      "proficiency_label": "Nivel de habilidad"
+    }
+  ],
+  "interests": [],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Francés",
+      "fluency": "A2"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "A2"
+    }
+  ],
+  "references": [
+    {
+      "name": "Ing. en Sistemas Roger Santos",
+      "relation": "Referencia",
+      "reference": "+593 981633389"
+    }
+  ]
+}
