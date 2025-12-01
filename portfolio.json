@@ -1,0 +1,220 @@
+{
+  "name": "Martin Mayanquer",
+  "label": "Autodidacta, ingeniería inversa, programación bajo nivel",
+  
+  "contact": {
+    "email": "martinmayanquer01@gmail.com",
+    "phone": "0995884270",
+    "location": "Ibarra, Ecuador"
+  },
+  "summary": "Autodidacta y apasionado por la ciberseguridad, la ingeniería inversa y todo lo que sea el desarrollo a bajo nivel. Aprendo rompiendo, analizando y creando.",
+  "url": "https://blog-lab-4f39ea.gitlab.io/",
+  "social_links": [
+    {
+      "label": "Blog",
+      "url": "https://blog-lab-4f39ea.gitlab.io/",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/anheplast",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/mayqmart/",
+      "svg_path": "img/instagram.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/martin-mayanquer-546b9a255",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Cooperativa de Ahorro y Crédito San Antonio Ltda",
+      "position": "Soporte Técnico y Seguridad de la Información (Prácticas Preprofesionales)",
+      "url": "https://drive.google.com/file/d/1AkWj4C9HYZJ26xS44sUSdfWlD-MOzatc/view?usp=sharing",
+      "start_date": "2024-04",
+      "end_date": "2024-08",
+      "summary": "Apoyo integral en infraestructura IT, seguridad de la información y soporte técnico institucional.",
+      "highlights": [
+        "Instalación y configuración de servidor RustDesk en Ubuntu Server utilizando Docker para conexiones remotas dentro de la red local.",
+        "Colaboración en la redacción y actualización de políticas de seguridad. Recibí capacitación en IDS (Sophos) y servicios de protección como Cloudflare.",
+        "Instalación y configuración de software crítico, incluyendo encriptación de discos y configuración de impresoras bajo entornos con Directorio Activo.",
+        "Instalación del software financiero institucional garantizando su operatividad.",
+        "Mantenimiento y resolución de problemas en impresoras y equipos de cómputo, incluyendo actualizaciones de sistemas operativos y configuraciones de red.",
+        "Apoyo en la gestión de cambios y reemplazos de equipos, configuración de dispositivos de usuario final, y manejo de soporte remoto y en sitio."
+      ]
+    },
+    {
+      "company": "Centro de Formación Artesanal Particular Montúfar",
+      "position": "Soporte Técnico (Pasantía)",
+      "url": "https://drive.google.com/file/d/1caaJ8cnkCJNXh66iWWiqigOID0UpDc-l/view?usp=sharing",
+      "start_date": "2020-06",
+      "end_date": "2021-09",
+      "summary": "Apoyo en mantenimiento básico, configuración de equipos y asistencia a usuarios internos del centro de formación.",
+      "highlights": [
+        "Mantenimiento básico de equipos de cómputo.",
+        "Configuración de equipos para usuarios del centro.",
+        "Asistencia técnica a usuarios internos.",
+        "Solución de problemas relacionados con las herramientas informáticas del centro.",
+        "Apoyo en problemas de red y conexión de equipos."
+      ]
+    },
+    {
+      "company": "Centro de Formación Artesanal Particular Técnico Internacional (Tulcán)",
+      "position": "Soporte Técnico (Pasantía)",
+      "url": "https://drive.google.com/file/d/1I6DSYJKjTMStTaE4myODZMwlPjudNNMn/view?usp=sharing",
+      "start_date": "2020-06",
+      "end_date": "2021-09",
+      "summary": "Apoyo en mantenimiento básico, configuración de equipos y asistencia a usuarios internos del centro de formación.",
+      "highlights": [
+        "Mantenimiento básico de equipos de cómputo.",
+        "Configuración de equipos para usuarios del centro.",
+        "Asistencia técnica a usuarios internos.",
+        "Solución de problemas relacionados con las herramientas informáticas del centro.",
+        "Apoyo en problemas de red y conexión de equipos."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "🔗CURIOSMAZE",
+      "summary": "Plataforma web educativa para el desarrollo del pensamiento lógico y la evaluación automática de ejercicios de programación. Permite crear evaluaciones interactivas que son evaluadas automáticamente mediante un sistema de ejecución de código (Judge0) proporcionando retroalimentación inmediata.",
+      "url": "https://github.com/anheplast/curiosmaze",
+      "highlights": [
+        "Sistema de evaluación automática de código",
+        "Integración con Judge0 para ejecución segura",
+        "Retroalimentación inmediata para estudiantes"
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/curiosmaze/login_curiosmaze.png",
+          "caption": "Login"
+        },
+        {
+          "img_path": "portfolio_media/curiosmaze/entorno_resolucion.png",
+          "caption": "Entorno de resolución"
+        },
+        {
+          "img_path": "portfolio_media/curiosmaze/editor_markdown.png",
+          "caption": "Editor Markdown"
+        }
+      ]
+    },
+    {
+      "title": "🔗SONQO - Sistema de Monitoreo Biométrico",
+      "summary": "Prototipo desarrollado para el Dev Challenge (1ra edición - Julio 2024) que utiliza un ESP32-S3 para captar datos biométricos y enviarlos a una plataforma web desarrollada con Python y Flask. Incluye funcionalidades CRUD conectadas a PostgreSQL, con el objetivo de asistir a profesionales de la salud en el monitoreo y gestión de pacientes diagnosticados con ansiedad.",
+      "url": "https://github.com/anheplast/sonqo",
+      "highlights": [
+        "Integración IoT con ESP32-S3",
+        "Aplicación web con Flask y PostgreSQL",
+        "Registro de pacientes",
+        "Monitoreo de datos biométricos"
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/sonqo/usuario.png",
+          "caption": "Vista de usuario"
+        },
+        {
+          "img_path": "portfolio_media/sonqo/xiao.png",
+          "caption": "Hardware ESP32-S3"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Unidad Educativa 'Agustín Cueva Dávila'",
+      "position": "Instructor en Tecnologías de la Información",
+      "url": "",
+      "start_date": "2023-11",
+      "end_date": "2024-01",
+      "summary": "Capacitación a docentes y estudiantes en el uso de Tecnologías de la Información (TIC) y la creación de contenidos digitales, promoviendo una educación más inclusiva, equitativa y de calidad.",
+      "highlights": [
+        "Formación en herramientas TIC para docentes",
+        "Talleres de creación de contenidos digitales",
+        "Promoción de educación inclusiva y equitativa"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontificia Universidad Católica del Ecuador Sede Ibarra",
+      "location": "Ibarra, Ecuador",
+      "url": "https://www.pucesi.edu.ec",
+      "degrees": [
+        "Tecnólogo Superior en Desarrollo de Software"
+      ],
+      "honors": [
+        "Participación en Dev Challenge 2024 (1ra edición)",
+        "LA CTF 2025"
+      ],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 50,
+      "proficiency_label": "Cómodo"
+    },
+    {
+      "name": "Linux/Bash, SysAdmin, Docker",
+      "proficiency": 60,
+      "proficiency_label": "Cómodo"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": 25,
+      "proficiency_label": "Principiante"
+    },
+    {
+      "name": "Penetration Testing",
+      "proficiency": 30,
+      "proficiency_label": "Aprendiendo"
+    },
+    {
+      "name": "Ingeniería Inversa",
+      "proficiency": 20,
+      "proficiency_label": "Aprendiendo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Carpintería (Ebanistería)",
+      "summary": "Trabajo en madera 🪵🪓",
+      "images": [
+        {
+          "img_path": "portfolio_media/pie_cama.jpeg",
+          "caption": ""
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Francés",
+      "fluency": "A2"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "A2"
+    }
+  ],
+  "references": [
+    {
+      "name": "Ing. en Sistemas Roger Santos",
+      "reference": "+593 981633389"
+    }
+  ]
+}
