@@ -40,7 +40,7 @@
       "end_date": "2024-08",
       "summary": "Apoyo integral en infraestructura IT, seguridad de la información y soporte técnico institucional.",
       "highlights": [
-        "Instalación y configuración de servidor RustDesk en Ubuntu Server utilizando Docker para conexiones remotas dentro de la red local.",
+        "(Propuesta) Instalación y configuración de servidor RustDesk en Ubuntu Server utilizando Docker para conexiones remotas dentro de la red local.",
         "Colaboración en la redacción y actualización de políticas de seguridad. Recibí capacitación en IDS (Sophos) y servicios de protección como Cloudflare.",
         "Instalación y configuración de software crítico, incluyendo encriptación de discos y configuración de impresoras bajo entornos con Directorio Activo.",
         "Instalación del software financiero institucional garantizando su operatividad.",
